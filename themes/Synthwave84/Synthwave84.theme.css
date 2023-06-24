@@ -25,9 +25,9 @@ enjoy! */
 }
 
 em {
-    color: pink;
+    color: pink; !important
 }
 
 strong {
-    color: red;
+    color: red; !important
 }
