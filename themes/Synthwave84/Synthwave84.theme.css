@@ -23,3 +23,11 @@ enjoy! */
 * {
     font-family: "Comic Sans MS";
 }
+
+em {
+    color: pink;
+}
+
+strong {
+    color: red;
+}
