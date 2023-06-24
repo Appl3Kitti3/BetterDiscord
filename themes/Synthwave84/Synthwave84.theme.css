@@ -20,18 +20,22 @@ touch on it.
 Thank you for all of the feedback - it's been helpful in creating a theme that we all can
 enjoy! */
 
+/* Change most of the font to Comic Sans! */
 * {
     font-family: "Comic Sans MS"; !important
 }
 
+/* Change the text decorations when chatting in italics. Using "* <text> *" */
 em span {
     color: pink; !important
 }
 
+/* Change the text decorations when chatting in bold. Using "** <text> **" */
 strong span {
     color: red; !important
 }
 
+/* Change the font for the profile overlay. */
 .theme-dark {
     font-family: "Comic Sans MS"; !important
 }
