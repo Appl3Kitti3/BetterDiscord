@@ -21,7 +21,7 @@ Thank you for all of the feedback - it's been helpful in creating a theme that w
 enjoy! */
 
 * {
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS"; !important
 }
 
 em span {
@@ -33,6 +33,6 @@ strong span {
 }
 
 /* .theme-dark { */
-.layerContainer-2lfOPe {
+/* .layerContainer-2lfOPe {
     font-family: "Comic Sans MS"; !important
-}
+} */
