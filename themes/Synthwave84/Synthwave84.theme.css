@@ -24,10 +24,10 @@ enjoy! */
     font-family: "Comic Sans MS";
 }
 
-em {
+em span {
     color: pink; !important
 }
 
-strong {
+strong span {
     color: red; !important
 }
