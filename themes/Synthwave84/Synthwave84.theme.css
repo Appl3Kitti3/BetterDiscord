@@ -9,7 +9,7 @@
 * @updateUrl https://celestialreaver.github.io/BetterDiscord/themes/Synthwave84/Synthwave84.theme.css
 */
 /* @import url("https://celestialreaver.github.io/BetterDiscord/themes/Synthwave84/css/source.css"); */
-/* @import url("https://raw.githubusercontent.com/Appl3Kitti3/BetterDiscord/main/themes/Synthwave84/css/source.css"); */
+@import url("https://raw.githubusercontent.com/Appl3Kitti3/BetterDiscord/main/themes/Synthwave84/css/source.css");
 /* This is not a customizable theme. People have reached out about customizing but my intention
 is to keep this theme as true to my original vision as possible. 
 
@@ -20,22 +20,3 @@ touch on it.
 Thank you for all of the feedback - it's been helpful in creating a theme that we all can
 enjoy! */
 
-/* Change most of the font to Comic Sans! */
-* {
-    font-family: "Comic Sans MS"; !important
-}
-
-/* Change the text decorations when chatting in italics. Using "* <text> *" */
-em span {
-    color: pink; !important
-}
-
-/* Change the text decorations when chatting in bold. Using "** <text> **" */
-strong span {
-    color: red; !important
-}
-
-/* Change the font for the profile overlay. */
-.theme-dark {
-    font-family: "Comic Sans MS"; !important
-}
