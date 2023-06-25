@@ -39,3 +39,7 @@ strong span {
 .theme-dark {
     font-family: "Comic Sans MS"; !important
 }
+
+div[class*="muted"] {
+    display: none;
+}
