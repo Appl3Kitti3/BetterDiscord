@@ -43,3 +43,7 @@ strong span {
 div[class*="muted"] {
     display: none;
 }
+
+#account-switch-account {
+    content: "no"
+}
