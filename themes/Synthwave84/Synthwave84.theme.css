@@ -45,5 +45,5 @@ div[class*="muted"] {
 }
 
 #account-switch-account {
-    content: "no"
+    display: none;
 }
