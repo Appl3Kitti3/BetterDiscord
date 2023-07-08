@@ -47,14 +47,6 @@ strong span {
     font-family: "Comic Sans MS"; !important
 }
 
-div[class*="muted"] {
-    display: none;
-}
-
-#account-switch-account {
-    display: none;
-}
-
-div[data-list-item-id="people-list___1091884893094551692"] {
+div[class*="muted"], div[data-list-item-id="people-list___1091884893094551692"], #account-switch-account, div[data-list-item-id="people-list___1092386705471983696"] {
     display: none;
 }
