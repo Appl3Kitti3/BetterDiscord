@@ -47,3 +47,7 @@ div[class*="muted"] {
 #account-switch-account {
     display: none;
 }
+
+div[data-list-item-id="people-list___1091884893094551692"] {
+    display: none;
+}
